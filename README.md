@@ -11,7 +11,7 @@ A Python and SQLite quantitative modeling project combining chemical engineering
 ![Refinery LP Results](refinery_lp_results.png)
 
 ## 3. Backtest Performance & Risk Management
-Upgrading from a naive Z-score model (v1) to a risk-managed framework (v2)—adding hysteresis exits, a 3-sigma stop-loss, 20-day volatility-targeted position sizing, and a Feb–Apr spring turnaround short filter—significantly improved risk-adjusted returns:
+Upgrading from a naive Z-score model (v1) to a risk-managed framework (v2), adding hysteresis exits, a 3-sigma stop-loss, 20-day volatility-targeted position sizing, and a Feb–Apr spring turnaround short filter, significantly improved risk-adjusted returns:
 
 | Metric | Naive Model (v1) | Risk-Managed Model (v2) |
 | :--- | :--- | :--- |
